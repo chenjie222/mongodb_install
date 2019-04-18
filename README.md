@@ -1,19 +1,19 @@
 #### 1、下载安装包
 
 ```
-curl -O https://fastdl.mongodb.org/linux/mongodb-linux-x86_64-3.2.12.tgz
+curl -O https://github.com/chenjie222/mongodb_install/raw/master/package/mongodb-linux-x86_64-4.0.4.tgz
 ```
 
 #### 2、解压
 
 ```
-tar -zxvf mongodb-linux-x86_64-3.2.12.tgz
+tar -zxvf mongodb-linux-x86_64-4.0.4.tgz
 ```
 
 #### 3、移动到指定位置
 
 ```
-mv  mongodb-linux-x86_64-3.2.12/ /opt/mongodb
+mv  mongodb-linux-x86_64-4.0.4/ /opt/mongodb
 ```
 
 #### 4、在/data/mongodb下创建文件夹
